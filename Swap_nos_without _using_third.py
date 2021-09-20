@@ -4,5 +4,5 @@ a = a + b
 b = a - b
 a = a - b
 print("After Swapping Numbers")
-print('a =',a)
-print('b =',b)
+print('a =', a)
+print('b =', b)
